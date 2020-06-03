@@ -18,6 +18,14 @@
     #page-home main {
         align-items: center;
     }
+
+    #page-search-results .cards {
+        align-items: center;
+    }
+
+    #page-search-results .cards img {
+        height: 250px;
+    }
 }
 
 @media (min-width: 1700px) {
